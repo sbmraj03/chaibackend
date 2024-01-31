@@ -1,0 +1,2 @@
+node_modules
+.env //contains sensitive information => ise public mat karna
